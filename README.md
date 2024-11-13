@@ -11,64 +11,69 @@ Here in this read me I will include a written list of zones that include a waypo
 
 ```
     Classic Waypoints
-Ak’Anon
-Blackburrow
-Castle Mistmoore
-Cazic Thule
-Dagnor’s Cauldron
-East Karana
-Erudin
-Everfrost
-Felwithe
-Greater Faydark
-Grobb
-Halas
-High Keep
-Hole
-Kaladim
-Lake Rathetear
-Lavastorm
-Neriak Commons
-North Karana
-North Qeynos
-Oasis of Marr
-Ocean of Tears
-Oggok
-Paineel
-Plane of Hate
-Rathe Mountains
-Rivervale
-South Karana
-Surefall Glade
-West Commonlands
-West Freeport
-West Karana
+Ak’Anon - Base
+Erudin - Base
+Felwithe - Base
+Greater Faydark - Base
+Grobb - Base
+Halas - Base
+Kaladim - Base
+Neriak Commons - Base
+North Qeynos - Base
+Oggok - Base
+Paineel - Base
+Rivervale - Base
+West Freeport - Base
+Plane of Hate - Base (Unlocked at lv 46)
+Plane of Sky - Base (Unlocked at lv 46)
+Blackburrow - Discoverable
+Castle Mistmoore - Discoverable
+Dagnor’s Cauldron - Discoverable
+East Karana - Discoverable
+Everfrost - Discoverable
+High Keep - Discoverable
+Hole - Discoverable
+Lake Rathetear - Discoverable
+Lavastorm - Discoverable
+North Karana - Discoverable
+Oasis of Marr - Discoverable
+South Karana - Discoverable
+Surefall Glade - Discoverable
+Toxxulia Forrest - Discoverable
+West Commonlands - Discoverable
+South Karana - Discoverable
+Surefall Glade - Discoverable
+Toxxulia Forrest - Discoverable
+West Commonlands - Discoverable
+West Karana - Discoverable
 
     Classic Echos
-Unrest
+Crushbone - Inside of entrance
+Lower Guk - Inside of entrance
+Mistmoore - Inside of entrance
 Nagafen's Lair - Outside entrance in Lavastorm
 Permafrost - Outside entrance in Everfrost
-Plane of Hate
-The Ruins of Old Paineel
-Lower Guk
-Crushbone
-Mistmoore
-Plane of Sky
-Plane of Fear
+Plane of Sky - Inside of entrance
+Plane of Fear - Inside of entrance
+Plane of Hate - Inside of entrance
+Ruins of Old Paineel - Inside of entrance
+Unrest - Inside of entrance
 
     Kunark Waypoints
-Burning Woods (burningwood) - (Discoverable) outside of Chardok, NW corner of room.
-City of Mist (citymist) - (Discoverable) at the temple to the right of entrance.
-Dreadlands (dreadlands) - (Discoverable) at wizard spires.
-East Cabilis (cabeast) - Starting Portal.
-Field of Bone (fieldofbone) - (Discoverable) at noob ramp.
-Firiona Vie (firiona) - (Discoverable) slightly east of the bridge to FV city.
-Frontier Mountains (frontiermtns) - west of giant fort.
-Lake of Ill Omen (lakeofillomen) - (Discoverable) north of where the lake and river meet.
-Overthere (overthere) - (Discoverable) at crossroads by FM zoneline.
-Trakanon’s Tooth (trakanon) - (Discoverable) near the Sebilis zone orb.
+East Cabilis - Base
+Burning Woods - Discoverable
+City of Mist - Discoverable
+Dreadlands - Discoverable
+East Cabilis - Discoverable
+Field of Bone - Discoverable
+Firiona Vie - Discoverable
+Frontier Mountains - Discoverable
+Lake of Ill Omen - Discoverable
+Overthere - Discoverable
+Trakanon’s Tooth - Discoverable
 
     Kunark Echos
+
 
     Velious Waypoints
 Cobalt Scar - (Discoverable) wizard / druid port in.
