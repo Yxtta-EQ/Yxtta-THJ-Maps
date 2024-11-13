@@ -9,41 +9,43 @@ If you have anything you would like to see added or if you have any suggestions 
 
 Here in this read me I will include a written list of zones that include a waypoint for easy of nagivation to the zone then in the zone map you can find the waypoint label. 
 
-    CLASSIC
-Ak’Anon (akanon) - Starting Portal
-Lake Rathetear (lakerathe) - (Discoverable) near zoneline to Arena.
-Blackburrow (blackburrow) - (Discoverable) across the waterfall from QHills zoneline.
-Castle Mistmoore (mistmoore) - (Discoverable) near the Lesser Faydark zone out.
-Cazic Thule (cazicthule) - Suspected Removed.
-Dagnor’s Cauldron (cauldron) - (Discoverable) near the Unrest zone in.
-Erud’s Crossing (erudsxing) - Suspected Removed.
-Erudin (erudnext) - Starting Portal
-Everfrost (everfrost) - (Discoverable) not too far up the tunnel heading north from permafrost.
-Felwithe (felwithea) - Starting Portal
-Greater Faydark (gfaydark) - Starting Portal
-Grobb (grobb) - Starting Portal
-Halas (halas) - Starting Portal
-High Keep (highkeep) - (Discoverable) courtyard upon entering zone.
-Hole (hole) - (Discoverable) near the drop cliff near entrance.
-Kaladim (kaladima) - Starting Portal
-Lavastorm (lavastorm) - (Discoverable) at the druid ring.
-Nagafen’s Lair (soldungb) - Suspected Removed.
-Neriak Commons (neriakb) - near Neriak Foreign Quarter exit
-North Karana (northkarana) - (Discoverable) at gypsy camp.
-North Qeynos (qeynos2) - Starting Portal
-Oasis of Marr (oasis) - (Discoverable) near the gypsy merchant.
-Ocean of Tears (oot) - (Discoverable)
-Oggok (oggok) - Starting Portal
-Paineel (paineel)- Starting Portal
-Plane of Hate (hateplaneb) - Default unlocked upon reaching 46.
-Rathe Mountains (rathemtn) - near zone line to lake rathe
-Rivervale (rivervale) - Starting Portal.
-South Karana (southkarana) - (Discoverable) at aviak treehouse
-Surefall Glade (qrg) - (Discoverable) next to the building in the pond
-West Commonlands (commons) -
-West Freeport (freportw) - Starting Portal
+    Classic Waypoints
+Ak’Anon
+Blackburrow
+Castle Mistmoore
+Cazic Thule
+Dagnor’s Cauldron
+East Karana
+Erudin
+Everfrost
+Felwithe
+Greater Faydark
+Grobb
+Halas
+High Keep
+Hole
+Kaladim
+Lake Rathetear
+Lavastorm
+Neriak Commons
+North Karana
+North Qeynos
+Oasis of Marr
+Ocean of Tears
+Oggok
+Paineel
+Plane of Hate
+Rathe Mountains
+Rivervale
+South Karana
+Surefall Glade
+West Commonlands
+West Freeport
+West Karana
 
-    Kunark #
+    Classic Echos
+
+    Kunark Waypoints
 Burning Woods (burningwood) - (Discoverable) outside of Chardok, NW corner of room.
 City of Mist (citymist) - (Discoverable) at the temple to the right of entrance.
 Dreadlands (dreadlands) - (Discoverable) at wizard spires.
@@ -55,11 +57,17 @@ Lake of Ill Omen (lakeofillomen) - (Discoverable) north of where the lake and ri
 Overthere (overthere) - (Discoverable) at crossroads by FM zoneline.
 Trakanon’s Tooth (trakanon) - (Discoverable) near the Sebilis zone orb.
 
-    Velious #
+    Kunark Echos
+
+    Velious Waypoints
 Cobalt Scar - (Discoverable) wizard / druid port in.
 Eastern Wastes (Disoverable) orc fort.
 Wakening Land (Discoverable)
 Western Wastes (Discoverable)
 
-    Luclin #
+    Velious Echos
+
+    Luclin Waypoints
 Dawnshroud Peaks (Near Maiden’s Eye in a hut)
+
+    Luclin Echos
