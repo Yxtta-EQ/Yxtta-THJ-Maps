@@ -11,8 +11,8 @@ Here in this read me I will include a written list of zones that include a waypo
 
 ```
     Classic Waypoints
-* Ak’Anon
-* Blackburrow
+Ak’Anon
+Blackburrow
 Castle Mistmoore
 Cazic Thule
 Dagnor’s Cauldron
@@ -45,6 +45,16 @@ West Freeport
 West Karana
 
     Classic Echos
+Unrest
+Nagafen's Lair - Outside entrance in Lavastorm
+Permafrost - Outside entrance in Everfrost
+Plane of Hate
+The Ruins of Old Paineel
+Lower Guk
+Crushbone
+Mistmoore
+Plane of Sky
+Plane of Fear
 
     Kunark Waypoints
 Burning Woods (burningwood) - (Discoverable) outside of Chardok, NW corner of room.
