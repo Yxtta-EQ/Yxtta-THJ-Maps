@@ -9,6 +9,7 @@ If you have anything you would like to see added or if you have any suggestions 
 
 Here in this read me I will include a written list of zones that include a waypoint for easy of nagivation to the zone then in the zone map you can find the waypoint label. 
 
+'''
     Classic Waypoints
 * Ak’Anon
 * Blackburrow
@@ -71,3 +72,5 @@ Western Wastes (Discoverable)
 Dawnshroud Peaks (Near Maiden’s Eye in a hut)
 
     Luclin Echos
+
+'''
