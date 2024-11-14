@@ -31,7 +31,7 @@ Castle Mistmoore - Discoverable
 Dagnor’s Cauldron - Discoverable
 East Karana - Discoverable
 Everfrost - Discoverable
-High Keep - Discoverable x
+High Keep - Discoverable
 Hole - Discoverable
 Lake Rathetear - Discoverable
 Lavastorm - Discoverable
@@ -82,10 +82,10 @@ Skyfire Mountains - At Burning Woods zoneline
 Veeshan's Peak - Inside of Entrance
 
     Velious Waypoints
-Cobalt Scar - (Discoverable) wizard / druid port in.
-Eastern Wastes (Disoverable) orc fort.
-Wakening Land (Discoverable)
-Western Wastes (Discoverable)
+Cobalt Scar - Discoverable
+Eastern Wastes - Discoverable 
+Wakening Land - Discoverable 
+Western Wastes - Discoverable 
 
     Velious Echos
 
