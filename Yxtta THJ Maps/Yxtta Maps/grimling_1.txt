@@ -1,0 +1,22 @@
+P 754, -1542, 39, 255, 0, 0, 3, to_The_Tenebrous_Mountains
+P 1213, 1790, 33, 255, 0, 0, 3, to_Hollowshade_Moor
+P -1942, -865, -271, 255, 0, 0, 3, to_Acrylia_Caverns
+P 1020, 950, 17, 255, 0, 0, 2, Succor
+P -126, -949, 0, 255, 255, 255, 2, Bandit_Camp
+P 1211, 887, -2, 255, 210, 0, 2, Hanarah_(Banker)
+P 1201, 482, 0, 0, 128, 0, 2, Hamarr_(Merchant)
+P 1161, 485, 0, 0, 128, 0, 2, Chirri_(Merchant)
+P 1409, -38, 129, 0, 0, 0, 2, Grimling_Colonel
+P 185, 687, 0, 0, 0, 0, 2, Sonus
+P 354, 728, 1, 0, 0, 0, 2, Sonus
+P 314, 69, -40, 0, 0, 0, 2, Sonus
+P 370, -363, 44, 0, 0, 0, 2, Sonus
+P 69, 227, -19, 0, 0, 0, 2, Sonus
+P -596, -592, -5, 127, 64, 0, 2, Avisiris_(Hunter)
+P 239, -709, -6, 127, 64, 0, 2, Avisiris_(Hunter)
+P -1609, -312, -152, 127, 64, 0, 2, Highpriest_Giplish_(Hunter)
+P -1403, -766, -82, 127, 64, 0, 2, Spymaster_Gephes_(Hunter)
+P -1431, 115, -152, 127, 64, 0, 2, Spiritmaster_Ugreth_(Hunter)
+P -1139, -505, -116, 127, 64, 0, 2, Corrupter_Ahgra_(Hunter)
+P -1228, 851, -7, 127, 64, 0, 2, Avisiris_(Hunter)
+
