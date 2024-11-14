@@ -31,16 +31,13 @@ Castle Mistmoore - Discoverable
 Dagnor’s Cauldron - Discoverable
 East Karana - Discoverable
 Everfrost - Discoverable
-High Keep - Discoverable
+High Keep - Discoverable x
 Hole - Discoverable
 Lake Rathetear - Discoverable
 Lavastorm - Discoverable
 North Karana - Discoverable
 Oasis of Marr - Discoverable
-South Karana - Discoverable
-Surefall Glade - Discoverable
-Toxxulia Forrest - Discoverable
-West Commonlands - Discoverable
+Ocean of Tears - Discoverable
 South Karana - Discoverable
 Surefall Glade - Discoverable
 Toxxulia Forrest - Discoverable
@@ -73,7 +70,16 @@ Overthere - Discoverable
 Trakanon’s Tooth - Discoverable
 
     Kunark Echos
-
+Chardok - Outside of Chardok by Exit
+City of Mist - Inside of entrance
+Dreadlands - At wizard spires
+Emerald Jungle - At Trak Tooth zoneline
+Howling Stones - 
+Karnor's Castle - Inside of entrance
+Kurns Tower - Inside of entrance
+Sebilis - Inside of entrance
+Skyfire Mountains - At Burning Woods zoneline
+Veeshan's Peak - Inside of Entrance
 
     Velious Waypoints
 Cobalt Scar - (Discoverable) wizard / druid port in.
